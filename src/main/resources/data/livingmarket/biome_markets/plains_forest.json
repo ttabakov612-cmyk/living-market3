@@ -1,0 +1,89 @@
+{
+  "region": "plains_forest",
+  "replace": false,
+  "daily_deals": [
+    {
+      "item": "minecraft:bamboo",
+      "count_min": 10,
+      "count_max": 14,
+      "emeralds_min": 2,
+      "emeralds_max": 3,
+      "max_uses": 5,
+      "xp": 8
+    },
+    {
+      "item": "minecraft:cocoa_beans",
+      "count_min": 5,
+      "count_max": 7,
+      "emeralds_min": 3,
+      "emeralds_max": 4,
+      "max_uses": 4,
+      "xp": 8
+    },
+    {
+      "item": "minecraft:cod",
+      "count_min": 6,
+      "count_max": 8,
+      "emeralds_min": 2,
+      "emeralds_max": 3,
+      "max_uses": 5,
+      "xp": 8
+    },
+    {
+      "item": "minecraft:dried_kelp_block",
+      "count_min": 4,
+      "count_max": 6,
+      "emeralds_min": 2,
+      "emeralds_max": 3,
+      "max_uses": 4,
+      "xp": 8
+    },
+    {
+      "item": "minecraft:tuff",
+      "count_min": 10,
+      "count_max": 14,
+      "emeralds_min": 2,
+      "emeralds_max": 3,
+      "max_uses": 5,
+      "xp": 8
+    }
+  ],
+  "regional_sells": [
+    {
+      "item": "minecraft:cherry_sapling",
+      "count_min": 2,
+      "count_max": 3,
+      "emeralds_min": 3,
+      "emeralds_max": 4,
+      "max_uses": 8,
+      "xp": 4
+    },
+    {
+      "item": "minecraft:apple",
+      "count_min": 6,
+      "count_max": 8,
+      "emeralds_min": 1,
+      "emeralds_max": 1,
+      "max_uses": 12,
+      "xp": 2
+    },
+    {
+      "item": "minecraft:saddle",
+      "count_min": 1,
+      "count_max": 1,
+      "emeralds_min": 5,
+      "emeralds_max": 6,
+      "max_uses": 4,
+      "xp": 6
+    },
+    {
+      "item": "minecraft:iron_horse_armor",
+      "count_min": 1,
+      "count_max": 1,
+      "emeralds_min": 8,
+      "emeralds_max": 10,
+      "max_uses": 3,
+      "xp": 8
+    }
+  ]
+}

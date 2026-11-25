@@ -1,0 +1,335 @@
+{
+  "profession": "minecraft:librarian",
+  "replace": false,
+  "levels": {
+    "1": {
+      "basic_buy": [
+        {
+          "item": "minecraft:paper",
+          "count_min": 18,
+          "count_max": 22,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:candle",
+          "count_min": 5,
+          "count_max": 8,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 3
+        },
+        {
+          "item": "minecraft:ink_sac",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 14,
+          "xp": 2
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:enchanted_book",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 10,
+          "emeralds_max": 30,
+          "max_uses": 12,
+          "xp": 1,
+          "special": "enchanted_book"
+        },
+        {
+          "item": "minecraft:bookshelf",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 8,
+          "emeralds_max": 9,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:book",
+          "count_min": 3,
+          "count_max": 3,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 1
+        }
+      ]
+    },
+    "2": {
+      "basic_buy": [
+        {
+          "item": "minecraft:book",
+          "count_min": 4,
+          "count_max": 5,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 5
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:ink_sac",
+          "count_min": 8,
+          "count_max": 10,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 6
+        },
+        {
+          "item": "minecraft:writable_book",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 6
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:enchanted_book",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 10,
+          "emeralds_max": 30,
+          "max_uses": 12,
+          "xp": 5,
+          "special": "enchanted_book"
+        },
+        {
+          "item": "minecraft:lantern",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:chiseled_bookshelf",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 4,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 5
+        }
+      ]
+    },
+    "3": {
+      "basic_buy": [
+        {
+          "item": "minecraft:paper",
+          "count_min": 22,
+          "count_max": 26,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 16,
+          "xp": 10
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:bookshelf",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 12
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:enchanted_book",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 10,
+          "emeralds_max": 30,
+          "max_uses": 12,
+          "xp": 10,
+          "special": "enchanted_book"
+        },
+        {
+          "item": "minecraft:tinted_glass",
+          "count_min": 3,
+          "count_max": 4,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:lectern",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 5,
+          "emeralds_max": 5,
+          "max_uses": 8,
+          "xp": 10
+        }
+      ]
+    },
+    "4": {
+      "basic_buy": [
+        {
+          "item": "minecraft:writable_book",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:experience_bottle",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 3,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 16
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:enchanted_book",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 10,
+          "emeralds_max": 30,
+          "max_uses": 12,
+          "xp": 15,
+          "special": "enchanted_book"
+        },
+        {
+          "item": "minecraft:clock",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 5,
+          "emeralds_max": 5,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:soul_lantern",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ]
+    },
+    "5": {
+      "basic_buy": [
+        {
+          "item": "minecraft:book",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 20
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:music_disc_13",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 7,
+          "emeralds_max": 10,
+          "max_uses": 4,
+          "xp": 22
+        },
+        {
+          "item": "minecraft:music_disc_cat",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 7,
+          "emeralds_max": 10,
+          "max_uses": 4,
+          "xp": 22
+        },
+        {
+          "item": "minecraft:music_disc_blocks",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 7,
+          "emeralds_max": 10,
+          "max_uses": 4,
+          "xp": 22
+        },
+        {
+          "item": "minecraft:music_disc_far",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 7,
+          "emeralds_max": 10,
+          "max_uses": 4,
+          "xp": 22
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:name_tag",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 17,
+          "emeralds_max": 19,
+          "max_uses": 12,
+          "xp": 25
+        },
+        {
+          "item": "minecraft:enchanted_book",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 12,
+          "emeralds_max": 32,
+          "max_uses": 12,
+          "xp": 25,
+          "special": "enchanted_book"
+        },
+        {
+          "item": "minecraft:enchanting_table",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 22,
+          "emeralds_max": 26,
+          "max_uses": 3,
+          "xp": 30
+        }
+      ]
+    }
+  },
+  "rare_barters": [
+    {
+      "cost_a": "minecraft:diamond",
+      "cost_a_count": 2,
+      "item": "minecraft:enchanted_book",
+      "count_min": 1,
+      "count_max": 1,
+      "max_uses": 2,
+      "xp": 30,
+      "cost_b": "minecraft:book",
+      "cost_b_count": 1,
+      "special": "treasure_book"
+    }
+  ]
+}

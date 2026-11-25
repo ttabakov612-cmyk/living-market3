@@ -1,0 +1,412 @@
+{
+  "profession": "minecraft:mason",
+  "replace": false,
+  "levels": {
+    "1": {
+      "basic_buy": [
+        {
+          "item": "minecraft:clay_ball",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:cobblestone",
+          "count_min": 32,
+          "count_max": 44,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:copper_ingot",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 3
+        },
+        {
+          "item": "minecraft:tuff",
+          "count_min": 16,
+          "count_max": 24,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:calcite",
+          "count_min": 12,
+          "count_max": 16,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 16,
+          "xp": 2
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:brick",
+          "count_min": 10,
+          "count_max": 12,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:mud_bricks",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:polished_andesite",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:polished_diorite",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 1
+        }
+      ]
+    },
+    "2": {
+      "basic_buy": [
+        {
+          "item": "minecraft:stone",
+          "count_min": 18,
+          "count_max": 22,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:deepslate",
+          "count_min": 20,
+          "count_max": 26,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:pointed_dripstone",
+          "count_min": 8,
+          "count_max": 12,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 6
+        },
+        {
+          "item": "minecraft:copper_block",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 14,
+          "xp": 6
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:deepslate_bricks",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 16,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:cut_copper",
+          "count_min": 5,
+          "count_max": 6,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:terracotta",
+          "count_min": 5,
+          "count_max": 6,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        }
+      ]
+    },
+    "3": {
+      "basic_buy": [
+        {
+          "item": "minecraft:granite",
+          "count_min": 16,
+          "count_max": 20,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:andesite",
+          "count_min": 16,
+          "count_max": 20,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:diorite",
+          "count_min": 16,
+          "count_max": 20,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:sandstone",
+          "count_min": 18,
+          "count_max": 24,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 10
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:basalt",
+          "count_min": 16,
+          "count_max": 22,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:blackstone",
+          "count_min": 14,
+          "count_max": 18,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 10
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:orange_terracotta",
+          "count_min": 5,
+          "count_max": 6,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:polished_blackstone_bricks",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:smooth_basalt",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        }
+      ]
+    },
+    "4": {
+      "basic_buy": [
+        {
+          "item": "minecraft:quartz",
+          "count_min": 12,
+          "count_max": 16,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:end_stone",
+          "count_min": 16,
+          "count_max": 24,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:gilded_blackstone",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 4,
+          "emeralds_max": 4,
+          "max_uses": 8,
+          "xp": 16
+        },
+        {
+          "item": "minecraft:oxidized_copper",
+          "count_min": 3,
+          "count_max": 5,
+          "emeralds_min": 3,
+          "emeralds_max": 4,
+          "max_uses": 10,
+          "xp": 15
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:quartz_pillar",
+          "count_min": 5,
+          "count_max": 6,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:blue_glazed_terracotta",
+          "count_min": 3,
+          "count_max": 4,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:prismarine_bricks",
+          "count_min": 5,
+          "count_max": 6,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ]
+    },
+    "5": {
+      "basic_buy": [
+        {
+          "item": "minecraft:purpur_block",
+          "count_min": 12,
+          "count_max": 16,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 20
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:sea_lantern",
+          "count_min": 3,
+          "count_max": 5,
+          "emeralds_min": 4,
+          "emeralds_max": 5,
+          "max_uses": 10,
+          "xp": 22
+        },
+        {
+          "item": "minecraft:crying_obsidian",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 5,
+          "emeralds_max": 5,
+          "max_uses": 10,
+          "xp": 22
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:quartz_block",
+          "count_min": 5,
+          "count_max": 6,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 25
+        },
+        {
+          "item": "minecraft:sea_lantern",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 5,
+          "emeralds_max": 5,
+          "max_uses": 10,
+          "xp": 25
+        },
+        {
+          "item": "minecraft:lodestone",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 18,
+          "emeralds_max": 22,
+          "max_uses": 3,
+          "xp": 30
+        }
+      ]
+    }
+  },
+  "rare_barters": [
+    {
+      "cost_a": "minecraft:diamond",
+      "cost_a_count": 3,
+      "item": "minecraft:sponge",
+      "count_min": 4,
+      "count_max": 4,
+      "max_uses": 2,
+      "xp": 25,
+      "cost_b": "minecraft:smooth_stone",
+      "cost_b_count": 16
+    },
+    {
+      "cost_a": "minecraft:diamond",
+      "cost_a_count": 3,
+      "item": "minecraft:crying_obsidian",
+      "count_min": 16,
+      "count_max": 16,
+      "max_uses": 2,
+      "xp": 25,
+      "cost_b": "minecraft:smooth_stone",
+      "cost_b_count": 16
+    }
+  ]
+}

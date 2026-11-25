@@ -1,0 +1,338 @@
+{
+  "profession": "minecraft:cleric",
+  "replace": false,
+  "levels": {
+    "1": {
+      "basic_buy": [
+        {
+          "item": "minecraft:rotten_flesh",
+          "count_min": 28,
+          "count_max": 34,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:bone",
+          "count_min": 18,
+          "count_max": 24,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:amethyst_shard",
+          "count_min": 6,
+          "count_max": 10,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 3
+        },
+        {
+          "item": "minecraft:spider_eye",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 2
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:redstone",
+          "count_min": 3,
+          "count_max": 4,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:lapis_lazuli",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:glass_bottle",
+          "count_min": 7,
+          "count_max": 8,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 1
+        }
+      ]
+    },
+    "2": {
+      "basic_buy": [
+        {
+          "item": "minecraft:gold_ingot",
+          "count_min": 3,
+          "count_max": 4,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 5
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:glow_ink_sac",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 6
+        },
+        {
+          "item": "minecraft:phantom_membrane",
+          "count_min": 2,
+          "count_max": 4,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 6
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:glowstone_dust",
+          "count_min": 4,
+          "count_max": 4,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:brewing_stand",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 5,
+          "emeralds_max": 5,
+          "max_uses": 6,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:lapis_lazuli",
+          "count_min": 3,
+          "count_max": 3,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 5
+        }
+      ]
+    },
+    "3": {
+      "basic_buy": [
+        {
+          "item": "minecraft:slime_ball",
+          "count_min": 8,
+          "count_max": 12,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:fermented_spider_eye",
+          "count_min": 5,
+          "count_max": 8,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 12
+        },
+        {
+          "item": "minecraft:ender_pearl",
+          "count_min": 5,
+          "count_max": 8,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 12
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:glowstone",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 4,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:ender_pearl",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 5,
+          "emeralds_max": 5,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:amethyst_block",
+          "count_min": 4,
+          "count_max": 4,
+          "emeralds_min": 4,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 10
+        }
+      ]
+    },
+    "4": {
+      "basic_buy": [
+        {
+          "item": "minecraft:nether_wart",
+          "count_min": 16,
+          "count_max": 22,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:ghast_tear",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 4,
+          "emeralds_max": 5,
+          "max_uses": 10,
+          "xp": 16
+        },
+        {
+          "item": "minecraft:amethyst_block",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:experience_bottle",
+          "count_min": 3,
+          "count_max": 3,
+          "emeralds_min": 4,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:ender_eye",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 8,
+          "emeralds_max": 8,
+          "max_uses": 8,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:phantom_membrane",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 6,
+          "emeralds_max": 6,
+          "max_uses": 8,
+          "xp": 15
+        }
+      ]
+    },
+    "5": {
+      "basic_buy": [
+        {
+          "item": "minecraft:nether_wart",
+          "count_min": 20,
+          "count_max": 26,
+          "emeralds_min": 3,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 20
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:echo_shard",
+          "count_min": 1,
+          "count_max": 2,
+          "emeralds_min": 7,
+          "emeralds_max": 10,
+          "max_uses": 6,
+          "xp": 25
+        },
+        {
+          "item": "minecraft:dragon_breath",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 6,
+          "emeralds_max": 8,
+          "max_uses": 8,
+          "xp": 25
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:experience_bottle",
+          "count_min": 5,
+          "count_max": 6,
+          "emeralds_min": 5,
+          "emeralds_max": 5,
+          "max_uses": 12,
+          "xp": 25
+        },
+        {
+          "item": "minecraft:ender_chest",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 15,
+          "emeralds_max": 17,
+          "max_uses": 4,
+          "xp": 25
+        },
+        {
+          "item": "minecraft:ghast_tear",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 9,
+          "emeralds_max": 11,
+          "max_uses": 6,
+          "xp": 25
+        }
+      ]
+    }
+  },
+  "rare_barters": [
+    {
+      "cost_a": "minecraft:golden_apple",
+      "cost_a_count": 1,
+      "item": "minecraft:totem_of_undying",
+      "count_min": 1,
+      "count_max": 1,
+      "max_uses": 2,
+      "xp": 30,
+      "cost_b": "minecraft:amethyst_shard",
+      "cost_b_count": 4
+    }
+  ]
+}

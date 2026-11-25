@@ -1,0 +1,422 @@
+{
+  "profession": "minecraft:shepherd",
+  "replace": false,
+  "levels": {
+    "1": {
+      "basic_buy": [
+        {
+          "item": "minecraft:white_wool",
+          "count_min": 16,
+          "count_max": 20,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:brown_wool",
+          "count_min": 16,
+          "count_max": 20,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:black_wool",
+          "count_min": 16,
+          "count_max": 20,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:gray_wool",
+          "count_min": 16,
+          "count_max": 20,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:cobweb",
+          "count_min": 3,
+          "count_max": 5,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 3
+        },
+        {
+          "item": "minecraft:moss_block",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 2
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:shears",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:red_wool",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:blue_wool",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:loom",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 8,
+          "xp": 1
+        }
+      ]
+    },
+    "2": {
+      "basic_buy": [
+        {
+          "item": "minecraft:white_dye",
+          "count_min": 12,
+          "count_max": 15,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:yellow_dye",
+          "count_min": 12,
+          "count_max": 15,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:red_dye",
+          "count_min": 12,
+          "count_max": 15,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:vine",
+          "count_min": 12,
+          "count_max": 18,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 6
+        },
+        {
+          "item": "minecraft:hanging_roots",
+          "count_min": 8,
+          "count_max": 12,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 6
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:white_carpet",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:moss_carpet",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:lead",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 5
+        }
+      ]
+    },
+    "3": {
+      "basic_buy": [
+        {
+          "item": "minecraft:cyan_dye",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:green_dye",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:purple_dye",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:cobweb",
+          "count_min": 5,
+          "count_max": 7,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 12
+        },
+        {
+          "item": "minecraft:pink_petals",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:white_bed",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:red_bed",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:big_dripleaf",
+          "count_min": 4,
+          "count_max": 4,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 10
+        }
+      ]
+    },
+    "4": {
+      "basic_buy": [
+        {
+          "item": "minecraft:brown_dye",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:black_dye",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:spore_blossom",
+          "count_min": 1,
+          "count_max": 2,
+          "emeralds_min": 3,
+          "emeralds_max": 4,
+          "max_uses": 8,
+          "xp": 16
+        },
+        {
+          "item": "minecraft:flowering_azalea",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:white_banner",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:blue_banner",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:flower_banner_pattern",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 5,
+          "emeralds_max": 5,
+          "max_uses": 6,
+          "xp": 15
+        }
+      ]
+    },
+    "5": {
+      "basic_buy": [
+        {
+          "item": "minecraft:white_wool",
+          "count_min": 24,
+          "count_max": 32,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 20
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:wither_rose",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 5,
+          "emeralds_max": 6,
+          "max_uses": 8,
+          "xp": 24
+        },
+        {
+          "item": "minecraft:spore_blossom",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 5,
+          "emeralds_max": 6,
+          "max_uses": 8,
+          "xp": 22
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:painting",
+          "count_min": 3,
+          "count_max": 4,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 25
+        },
+        {
+          "item": "minecraft:shears",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 8,
+          "emeralds_max": 11,
+          "max_uses": 4,
+          "xp": 25,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:mojang_banner_pattern",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 14,
+          "emeralds_max": 16,
+          "max_uses": 2,
+          "xp": 30
+        }
+      ]
+    }
+  },
+  "rare_barters": [
+    {
+      "cost_a": "minecraft:diamond",
+      "cost_a_count": 2,
+      "item": "minecraft:name_tag",
+      "count_min": 4,
+      "count_max": 4,
+      "max_uses": 2,
+      "xp": 25,
+      "cost_b": "minecraft:white_wool",
+      "cost_b_count": 16
+    },
+    {
+      "cost_a": "minecraft:golden_apple",
+      "cost_a_count": 1,
+      "item": "minecraft:mojang_banner_pattern",
+      "count_min": 1,
+      "count_max": 1,
+      "max_uses": 2,
+      "xp": 25,
+      "cost_b": "minecraft:paper",
+      "cost_b_count": 1
+    }
+  ]
+}

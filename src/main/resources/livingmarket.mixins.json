@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.livingmarket.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "livingmarket.refmap.json",
+  "mixins": [
+    "MerchantMenuAccessor",
+    "MerchantOfferMixin",
+    "ServerPlayerMixin",
+    "VillagerMixin"
+  ],
+  "client": [
+    "MerchantScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

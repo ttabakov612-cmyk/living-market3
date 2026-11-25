@@ -1,0 +1,98 @@
+{
+  "region": "snowy",
+  "replace": false,
+  "daily_deals": [
+    {
+      "item": "minecraft:coal_block",
+      "count_min": 2,
+      "count_max": 2,
+      "emeralds_min": 5,
+      "emeralds_max": 6,
+      "max_uses": 4,
+      "xp": 12
+    },
+    {
+      "item": "minecraft:lava_bucket",
+      "count_min": 1,
+      "count_max": 1,
+      "emeralds_min": 4,
+      "emeralds_max": 5,
+      "max_uses": 3,
+      "xp": 12
+    },
+    {
+      "item": "minecraft:white_wool",
+      "count_min": 8,
+      "count_max": 10,
+      "emeralds_min": 3,
+      "emeralds_max": 4,
+      "max_uses": 5,
+      "xp": 10
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "count_min": 3,
+      "count_max": 4,
+      "emeralds_min": 4,
+      "emeralds_max": 5,
+      "max_uses": 4,
+      "xp": 12
+    },
+    {
+      "item": "minecraft:cooked_beef",
+      "count_min": 3,
+      "count_max": 4,
+      "emeralds_min": 3,
+      "emeralds_max": 4,
+      "max_uses": 4,
+      "xp": 10
+    },
+    {
+      "item": "minecraft:honey_bottle",
+      "count_min": 2,
+      "count_max": 3,
+      "emeralds_min": 3,
+      "emeralds_max": 4,
+      "max_uses": 4,
+      "xp": 10
+    }
+  ],
+  "regional_sells": [
+    {
+      "item": "minecraft:packed_ice",
+      "count_min": 6,
+      "count_max": 8,
+      "emeralds_min": 2,
+      "emeralds_max": 3,
+      "max_uses": 12,
+      "xp": 4
+    },
+    {
+      "item": "minecraft:blue_ice",
+      "count_min": 1,
+      "count_max": 2,
+      "emeralds_min": 5,
+      "emeralds_max": 7,
+      "max_uses": 6,
+      "xp": 8
+    },
+    {
+      "item": "minecraft:soul_lantern",
+      "count_min": 2,
+      "count_max": 3,
+      "emeralds_min": 2,
+      "emeralds_max": 3,
+      "max_uses": 10,
+      "xp": 4
+    },
+    {
+      "item": "minecraft:snow_block",
+      "count_min": 12,
+      "count_max": 16,
+      "emeralds_min": 1,
+      "emeralds_max": 1,
+      "max_uses": 12,
+      "xp": 2
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "region": "savanna",
+  "replace": false,
+  "daily_deals": [
+    {
+      "item": "minecraft:snow_block",
+      "count_min": 8,
+      "count_max": 10,
+      "emeralds_min": 3,
+      "emeralds_max": 4,
+      "max_uses": 5,
+      "xp": 10
+    },
+    {
+      "item": "minecraft:dried_kelp_block",
+      "count_min": 4,
+      "count_max": 5,
+      "emeralds_min": 3,
+      "emeralds_max": 4,
+      "max_uses": 4,
+      "xp": 10
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "count_min": 6,
+      "count_max": 8,
+      "emeralds_min": 2,
+      "emeralds_max": 3,
+      "max_uses": 5,
+      "xp": 8
+    },
+    {
+      "item": "minecraft:brown_mushroom",
+      "count_min": 6,
+      "count_max": 8,
+      "emeralds_min": 3,
+      "emeralds_max": 4,
+      "max_uses": 4,
+      "xp": 10
+    },
+    {
+      "item": "minecraft:salmon",
+      "count_min": 6,
+      "count_max": 8,
+      "emeralds_min": 3,
+      "emeralds_max": 4,
+      "max_uses": 4,
+      "xp": 10
+    }
+  ],
+  "regional_sells": [
+    {
+      "item": "minecraft:saddle",
+      "count_min": 1,
+      "count_max": 1,
+      "emeralds_min": 5,
+      "emeralds_max": 6,
+      "max_uses": 4,
+      "xp": 6
+    },
+    {
+      "item": "minecraft:cyan_dye",
+      "count_min": 6,
+      "count_max": 8,
+      "emeralds_min": 1,
+      "emeralds_max": 2,
+      "max_uses": 12,
+      "xp": 3
+    },
+    {
+      "item": "minecraft:arrow",
+      "count_min": 20,
+      "count_max": 24,
+      "emeralds_min": 1,
+      "emeralds_max": 1,
+      "max_uses": 12,
+      "xp": 2
+    },
+    {
+      "item": "minecraft:leather",
+      "count_min": 4,
+      "count_max": 6,
+      "emeralds_min": 2,
+      "emeralds_max": 3,
+      "max_uses": 10,
+      "xp": 4
+    }
+  ]
+}

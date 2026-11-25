@@ -1,0 +1,369 @@
+{
+  "profession": "minecraft:fletcher",
+  "replace": false,
+  "levels": {
+    "1": {
+      "basic_buy": [
+        {
+          "item": "minecraft:stick",
+          "count_min": 30,
+          "count_max": 34,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:bamboo",
+          "count_min": 28,
+          "count_max": 36,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:feather",
+          "count_min": 16,
+          "count_max": 22,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:flint",
+          "count_min": 20,
+          "count_max": 26,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:arrow",
+          "count_min": 16,
+          "count_max": 16,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:bow",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:target",
+          "count_min": 2,
+          "count_max": 2,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 1
+        }
+      ]
+    },
+    "2": {
+      "basic_buy": [
+        {
+          "item": "minecraft:string",
+          "count_min": 10,
+          "count_max": 12,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:flint",
+          "count_min": 22,
+          "count_max": 26,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 14,
+          "xp": 5
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:gunpowder",
+          "count_min": 8,
+          "count_max": 12,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 6
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:spectral_arrow",
+          "count_min": 10,
+          "count_max": 12,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:arrow",
+          "count_min": 20,
+          "count_max": 24,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:flint",
+          "count_min": 10,
+          "count_max": 10,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 12,
+          "xp": 5,
+          "cost_item": "minecraft:gravel",
+          "cost_item_count": 10
+        }
+      ]
+    },
+    "3": {
+      "basic_buy": [
+        {
+          "item": "minecraft:string",
+          "count_min": 12,
+          "count_max": 14,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 16,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:feather",
+          "count_min": 20,
+          "count_max": 24,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 10
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:gunpowder",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 12
+        },
+        {
+          "item": "minecraft:tripwire_hook",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:crossbow",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 4,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:firework_rocket",
+          "count_min": 10,
+          "count_max": 12,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:bow",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 9,
+          "emeralds_max": 12,
+          "max_uses": 4,
+          "xp": 10,
+          "special": "enchanted_item"
+        }
+      ]
+    },
+    "4": {
+      "basic_buy": [
+        {
+          "item": "minecraft:bamboo_block",
+          "count_min": 8,
+          "count_max": 12,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:tripwire_hook",
+          "count_min": 8,
+          "count_max": 10,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:gunpowder",
+          "count_min": 14,
+          "count_max": 18,
+          "emeralds_min": 4,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 16
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:tipped_arrow",
+          "count_min": 6,
+          "count_max": 8,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 15,
+          "special": "tipped_arrow"
+        },
+        {
+          "item": "minecraft:crossbow",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 12,
+          "emeralds_max": 15,
+          "max_uses": 3,
+          "xp": 15,
+          "special": "enchanted_item"
+        }
+      ]
+    },
+    "5": {
+      "basic_buy": [
+        {
+          "item": "minecraft:feather",
+          "count_min": 28,
+          "count_max": 36,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 20
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:fire_charge",
+          "count_min": 4,
+          "count_max": 6,
+          "emeralds_min": 4,
+          "emeralds_max": 4,
+          "max_uses": 10,
+          "xp": 22
+        },
+        {
+          "item": "minecraft:gunpowder",
+          "count_min": 18,
+          "count_max": 24,
+          "emeralds_min": 5,
+          "emeralds_max": 5,
+          "max_uses": 10,
+          "xp": 22
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:bow",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 16,
+          "emeralds_max": 20,
+          "max_uses": 3,
+          "xp": 25,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:crossbow",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 16,
+          "emeralds_max": 20,
+          "max_uses": 3,
+          "xp": 25,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:tipped_arrow",
+          "count_min": 10,
+          "count_max": 12,
+          "emeralds_min": 4,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 25,
+          "special": "tipped_arrow"
+        },
+        {
+          "item": "minecraft:firework_rocket",
+          "count_min": 20,
+          "count_max": 24,
+          "emeralds_min": 5,
+          "emeralds_max": 5,
+          "max_uses": 12,
+          "xp": 25
+        }
+      ]
+    }
+  },
+  "rare_barters": [
+    {
+      "cost_a": "minecraft:diamond",
+      "cost_a_count": 2,
+      "item": "minecraft:firework_rocket",
+      "count_min": 32,
+      "count_max": 32,
+      "max_uses": 3,
+      "xp": 25,
+      "cost_b": "minecraft:gunpowder",
+      "cost_b_count": 16,
+      "special": "firework_flight_3"
+    },
+    {
+      "cost_a": "minecraft:diamond",
+      "cost_a_count": 2,
+      "item": "minecraft:tipped_arrow",
+      "count_min": 16,
+      "count_max": 16,
+      "max_uses": 3,
+      "xp": 25,
+      "cost_b": "minecraft:gunpowder",
+      "cost_b_count": 16,
+      "special": "tipped_arrow",
+      "potion": "minecraft:strong_harming"
+    }
+  ]
+}

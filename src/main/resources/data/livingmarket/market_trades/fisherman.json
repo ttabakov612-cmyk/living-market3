@@ -1,0 +1,360 @@
+{
+  "profession": "minecraft:fisherman",
+  "replace": false,
+  "levels": {
+    "1": {
+      "basic_buy": [
+        {
+          "item": "minecraft:kelp",
+          "count_min": 24,
+          "count_max": 32,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:string",
+          "count_min": 18,
+          "count_max": 22,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 10,
+          "xp": 2
+        },
+        {
+          "item": "minecraft:coal",
+          "count_min": 22,
+          "count_max": 26,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 6,
+          "xp": 2
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:lily_pad",
+          "count_min": 6,
+          "count_max": 10,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 3
+        },
+        {
+          "item": "minecraft:seagrass",
+          "count_min": 20,
+          "count_max": 28,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 2
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:cod_bucket",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 3,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:fishing_rod",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 8,
+          "xp": 1
+        },
+        {
+          "item": "minecraft:barrel",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 1
+        }
+      ]
+    },
+    "2": {
+      "basic_buy": [
+        {
+          "item": "minecraft:cod",
+          "count_min": 14,
+          "count_max": 18,
+          "emeralds_min": 1,
+          "emeralds_max": 1,
+          "max_uses": 16,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:dried_kelp_block",
+          "count_min": 6,
+          "count_max": 9,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 5
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:sea_pickle",
+          "count_min": 6,
+          "count_max": 9,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 6
+        },
+        {
+          "item": "minecraft:salmon",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 14,
+          "xp": 6
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:salmon_bucket",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 3,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:campfire",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 5
+        },
+        {
+          "item": "minecraft:oak_boat",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 8,
+          "xp": 5
+        }
+      ]
+    },
+    "3": {
+      "basic_buy": [
+        {
+          "item": "minecraft:salmon",
+          "count_min": 12,
+          "count_max": 16,
+          "emeralds_min": 1,
+          "emeralds_max": 2,
+          "max_uses": 16,
+          "xp": 10
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:tropical_fish",
+          "count_min": 3,
+          "count_max": 5,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 10
+        },
+        {
+          "item": "minecraft:pufferfish",
+          "count_min": 2,
+          "count_max": 4,
+          "emeralds_min": 2,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 10
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:fishing_rod",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 10,
+          "emeralds_max": 15,
+          "max_uses": 3,
+          "xp": 10,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:pufferfish_bucket",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 5,
+          "emeralds_max": 6,
+          "max_uses": 8,
+          "xp": 10
+        }
+      ]
+    },
+    "4": {
+      "basic_buy": [
+        {
+          "item": "minecraft:prismarine_shard",
+          "count_min": 8,
+          "count_max": 12,
+          "emeralds_min": 2,
+          "emeralds_max": 2,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:nautilus_shell",
+          "count_min": 1,
+          "count_max": 2,
+          "emeralds_min": 4,
+          "emeralds_max": 5,
+          "max_uses": 10,
+          "xp": 16
+        },
+        {
+          "item": "minecraft:wet_sponge",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 4,
+          "emeralds_max": 5,
+          "max_uses": 8,
+          "xp": 16
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:axolotl_bucket",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 11,
+          "emeralds_max": 14,
+          "max_uses": 4,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:sponge",
+          "count_min": 1,
+          "count_max": 2,
+          "emeralds_min": 7,
+          "emeralds_max": 9,
+          "max_uses": 6,
+          "xp": 15
+        },
+        {
+          "item": "minecraft:prismarine_crystals",
+          "count_min": 5,
+          "count_max": 6,
+          "emeralds_min": 4,
+          "emeralds_max": 4,
+          "max_uses": 12,
+          "xp": 15
+        }
+      ]
+    },
+    "5": {
+      "basic_buy": [
+        {
+          "item": "minecraft:prismarine_crystals",
+          "count_min": 10,
+          "count_max": 14,
+          "emeralds_min": 3,
+          "emeralds_max": 3,
+          "max_uses": 12,
+          "xp": 20
+        }
+      ],
+      "rare_buy": [
+        {
+          "item": "minecraft:nautilus_shell",
+          "count_min": 2,
+          "count_max": 3,
+          "emeralds_min": 7,
+          "emeralds_max": 9,
+          "max_uses": 8,
+          "xp": 22
+        },
+        {
+          "item": "minecraft:heart_of_the_sea",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 12,
+          "emeralds_max": 16,
+          "max_uses": 4,
+          "xp": 25
+        }
+      ],
+      "sell": [
+        {
+          "item": "minecraft:fishing_rod",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 16,
+          "emeralds_max": 20,
+          "max_uses": 3,
+          "xp": 25,
+          "special": "enchanted_item"
+        },
+        {
+          "item": "minecraft:conduit",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 30,
+          "emeralds_max": 36,
+          "max_uses": 1,
+          "xp": 30
+        },
+        {
+          "item": "minecraft:trident",
+          "count_min": 1,
+          "count_max": 1,
+          "emeralds_min": 34,
+          "emeralds_max": 42,
+          "max_uses": 1,
+          "xp": 30
+        }
+      ]
+    }
+  },
+  "rare_barters": [
+    {
+      "cost_a": "minecraft:diamond",
+      "cost_a_count": 3,
+      "item": "minecraft:heart_of_the_sea",
+      "count_min": 1,
+      "count_max": 1,
+      "max_uses": 1,
+      "xp": 30,
+      "cost_b": "minecraft:nautilus_shell",
+      "cost_b_count": 2
+    },
+    {
+      "cost_a": "minecraft:diamond",
+      "cost_a_count": 4,
+      "item": "minecraft:trident",
+      "count_min": 1,
+      "count_max": 1,
+      "max_uses": 1,
+      "xp": 30,
+      "cost_b": "minecraft:heart_of_the_sea",
+      "cost_b_count": 1
+    }
+  ]
+}
